@@ -1,0 +1,6 @@
+{
+  "name": "Deep Handloom Merta City - Garment & Handloom Retailers",
+  "description": "Premium multi-brand readymade garments, authentic Rajasthani handwoven fabrics, and family fashion across Merta City & Gotan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
